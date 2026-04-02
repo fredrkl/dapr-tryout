@@ -1,3 +1,8 @@
+# [v1.1.0](https://github.com/fredrkl/dapr-tryout/compare/v1.0.0...v1.1.0) (2026-04-02)
+
+## ✨ New Features
+- [`ecb0c31`](https://github.com/fredrkl/dapr-tryout/commit/ecb0c31)  Pub-sub demos
+
 # v1.0.0 (2026-03-26)
 
 ## ✨ New Features
